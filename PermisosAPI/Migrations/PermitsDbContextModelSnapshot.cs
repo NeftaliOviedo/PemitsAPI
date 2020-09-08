@@ -34,7 +34,7 @@ namespace PermisosAPI.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("FechaPermiso")
+                    b.Property<DateTime>("PermitDate")
                         .HasColumnType("datetime2");
 
                     b.Property<int>("PermitTypeId")

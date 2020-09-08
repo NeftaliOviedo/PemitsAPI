@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAPuUm3aszyUOE7CM+t/iHzgAAAAACAAAAAAAQZgAAAAEAACAAAADyh6p196zxk4L0q8pbCnvdE+fKv3k9+otD0SsBwlOrpgAAAAAOgAAAAAIAACAAAAAEZLqWn2VVuY8RPUnkov6XL2Yd1QkvDuFOXBn9jx+TqCAAAAAPsWPn8hf/3/l1qW2zG+dTsV6bq1tUqi/5eszZYKTV50AAAAAGDyO6ro0TpPSSAgNJS0Cbhq0oMyCyMLNMZXxlwnURYfgnlRQglSja8X8SUO+w6sW3urkVi45ywsMzERq+AbTp</EncryptedPassword>
+    <_PublishTargetUrl>https://neftalilocaldb-001-site1.htempurl.com:8172/MsDeploy.axd?site=neftalilocaldb-001-site1/neftalilocaldb-001-site1</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>

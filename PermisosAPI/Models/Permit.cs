@@ -22,7 +22,7 @@ namespace PermisosAPI.Models
         public int PermitTypeId { get; set; }
 
         [Required]
-        public DateTime FechaPermiso { get; set; }
+        public DateTime PermitDate { get; set; }
 
         public PermitType PermitType { get; set; }
 

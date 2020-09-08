@@ -50,7 +50,7 @@ namespace PermisosAPI.Services
                 permitFromDb.EmployeeName = newPermit.EmployeeName;
                 permitFromDb.EmployeeLastname = newPermit.EmployeeLastname;
                 permitFromDb.PermitTypeId = newPermit.PermitTypeId;
-                permitFromDb.FechaPermiso = newPermit.FechaPermiso;
+                permitFromDb.PermitDate = newPermit.PermitDate;
 
                 _db.SaveChanges();
 
